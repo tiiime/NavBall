@@ -3,4 +3,7 @@
     <string name="ask_for_permission">请设置悬浮窗权限, 小米电子书可通过「悬浮球」调起权限设置界面</string>
     <string name="back_to_home">返回首页</string>
     <string name="back">返回</string>
+    <string name="stop">停止</string>
+    <string name="start">启动</string>
+    <string name="description">点一下返回 双击返回首页</string>
 </resources>
