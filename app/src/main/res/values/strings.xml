@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">NaviButton</string>
+    <string name="app_name">返回键</string>
+    <string name="ask_for_permission">请设置悬浮窗权限, 小米电子书可通过「悬浮球」调起权限设置界面</string>
+    <string name="back_to_home">返回首页</string>
+    <string name="back">返回</string>
 </resources>
